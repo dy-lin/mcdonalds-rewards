@@ -1,0 +1,13 @@
+name: McDonaldsRewards
+title: McDonaldsRewards
+username:
+account: dianalin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7361676
+bundleId: 6421270
+url: https://dianalin.shinyapps.io/McDonaldsRewards/
+when: 1666231697.38697
+lastSyncTime: 1666231697.38699
+asMultiple: FALSE
+asStatic: FALSE
